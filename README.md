@@ -3,3 +3,5 @@ In this project, we introduce a new projection-free (Frank-Wolfe) method for opt
     Finally, we present numerical experiments demonstrating the effectiveness of the proposed method compared to other projection-free algorithms. This work was published in *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*. 
     
   For the published paper visit: https://neurips.cc/virtual/2025/loc/san-diego/poster/116662
+
+  Each folder contains code for the implementations in the paper. For *Figure 1* refer to "Gap_PGM vs Gap_PPM", for *Figure 2* refer to "QAP", for *Figure 3* refer to "EmbeddingAlignment", for *Figure 4* refer to "QAP", for *Figures 5,6* refer to "Neural Networks". The corresponding instructions are provided in each folder.
